@@ -1,0 +1,3 @@
+C:\Users\samed\Desktop\Emg\Emg\Emg\obj\Debug\Emg.csprojResolveAssemblyReference.cache
+C:\Users\samed\Desktop\Emg\Emg\Emg\obj\Debug\Emg.MainPage.xaml.g.cs
+C:\Users\samed\Desktop\Emg\Emg\Emg\obj\Debug\Emg.App.xaml.g.cs
